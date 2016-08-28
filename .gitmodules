@@ -1,0 +1,6 @@
+[submodule "minimal/Libraries/z-particles"]
+	path = minimal/Libraries/z-particles
+	url = https://github.com/RafaelOliveira/z-particles
+[submodule "showcase/Libraries/z-particles"]
+	path = showcase/Libraries/z-particles
+	url = https://github.com/RafaelOliveira/z-particles
